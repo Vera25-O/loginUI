@@ -3,8 +3,7 @@
     src: url('../fonts/blackjack-webfont.eot');
     src: url('../fonts/blackjack-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/blackjack-webfont.woff') format('woff'),
-         url('../fonts/blackjack-webfont.ttf') format('truetype'),
-         url('../fonts/blackjack-webfont.svg#black_jackregular') format('svg');
+         url('../fonts/blackjack-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -16,7 +15,7 @@ body {
 	margin: 0;
 	width: 100%;
 }
-/*<========CSS Reset Properties========>*/
+
 h1, p, form, input, div, img, label {
 	padding: 0;
 	margin: 0;
@@ -27,8 +26,7 @@ a {
 	padding: 0;
 	margin: 0;
 }
-/*<===============================================>*/
-/*<========Top to Bottom ordered CSS rules========>*/
+
 .container {
 	overflow: hidden;
 }
@@ -111,8 +109,7 @@ label {
 .submit:focus {
 	background: rgba(223,32,77, 0.8);
 }
-/*<============================================================>*/
-/*<========Media queries for other displays and devices========>*/
+
 @media only screen and (max-width: 480px) {
 	header h1 {
 		font-size: 4em;
@@ -121,4 +118,3 @@ label {
 		margin: 0.5em auto 0 auto;
 	}
 }
-/*<============================================================>*/
