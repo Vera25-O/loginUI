@@ -51,7 +51,7 @@ header h1 {
 	text-shadow: 1px 1px 4px rgba(10,10,10,1);
 }
 input {
-	background: rgba(228,232,243, 0.8) url("../images/sprite.png") no-repeat;
+	background: rgba(228,232,243, 0.8) url("https://raw.githubusercontent.com/raheel-anwar/Web-Login-Form-UI/master/images/sprite.png") no-repeat;
 	background-size: 20px 80px;
 	background-position: 0.5em 0.6em;
 	border: none;
