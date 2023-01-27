@@ -104,10 +104,10 @@ label {
 	transition: background 0.4s;
 }
 .submit:hover {
-	background: rgba(223,32,77, 0.8);
+	background: rgba(215, 101, 127, 0.8);
 }
 .submit:focus {
-	background: rgba(223,32,77, 0.8);
+	background: rgba(227, 132, 154, 0.8);
 }
 
 @media only screen and (max-width: 480px) {
